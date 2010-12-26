@@ -15,11 +15,11 @@ such as tests, smarter tag assignment, and tag cloud calculations.
 
 Rails 2.*
 
-  ruby script/plugin install git://github.com/jviney/acts_as_taggable_on_steroids.git
+  ruby script/plugin install git://github.com/mrbbbb/acts_as_taggable_on_steroids.git
 
 Rails 3:
 
-  rails plugin install git://github.com/jviney/acts_as_taggable_on_steroids.git
+  rails plugin install git://github.com/mrbbbb/acts_as_taggable_on_steroids.git
 
 == Usage
 
